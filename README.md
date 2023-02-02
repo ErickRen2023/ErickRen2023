@@ -29,6 +29,6 @@ Interested in:
 
 ## Contact me
 
-You can send me an email to ErickRen2022@outlook.com
+You can send email to ErickRen2022@outlook.com
 
 Besides,You can talk wiht me on Tecent QQ 2969044006.
