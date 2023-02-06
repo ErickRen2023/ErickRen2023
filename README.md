@@ -27,6 +27,12 @@ Interested in:
 
 > "追梦人永不停息脚步。"
 
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=erickren2023&hide_border=true&show_icons=true&theme=night&count_private=true">
+
+</p>
+
 ## Contact me
 
 You can send email to ErickRen2022@outlook.com
