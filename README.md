@@ -27,7 +27,7 @@ Interested in:
 
 > "追梦人永不停息脚步。"
 
-</p>
+<p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=erickren2023&hide_border=true&show_icons=true&theme=night&count_private=true">
 
