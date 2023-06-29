@@ -39,4 +39,4 @@ You can send email to ErickRen2022@outlook.com
 
 Besides,You can talk with me on Tecent QQ 2969044006.
 
-My blog: (click here)[https://erickren2023.github.io/]
+My blog: [click here](https://erickren2023.github.io/)
