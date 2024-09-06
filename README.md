@@ -10,9 +10,7 @@ Learning:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" alt="C" width="40" height="40">
 </p>
 
@@ -21,6 +19,8 @@ Interested in:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/go/go-original.svg" alt="GO" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
 </p>
 
 > "Dream chaser never give up."
@@ -32,11 +32,21 @@ Interested in:
 <img align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ErickRen2023&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=material-palenight"/>
 
 </p>
+
+## Professional Experience
+
+<div align="center">
     
+| Company | Time | JobDescription |
+| ------------------------------------ | ---------------- | ------------------- |
+| MeiTuan | 2024-04 ~ 2024-09 | Attraction Ticket For China Mainland Server R&D (intern) |
+
+</div>
+
 ## Contact me
 
-You can send email to ErickRen2022@outlook.com
+Send email to ErickRen2022@outlook.com
 
-Besides,You can talk with me on Tecent QQ 2969044006.
+Talk with me on Tecent QQ 2969044006.
 
-My blog: [click here](https://erickren2023.github.io/)
+My blog: [click here](https://erickren2023.github.io/).
