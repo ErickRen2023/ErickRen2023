@@ -39,7 +39,7 @@ Interested in:
     
 | Company | Time | JobDescription |
 | ------------------------------------ | ---------------- | ------------------- |
-| MeiTuan | 2024-04 ~ 2024-09 | Attraction Ticket For China Mainland Server R&D (intern) |
+| MeiTuan | 2024-04 ~ 2024-09 | Server R&D of Resort Ticket For China Mainland(intern) |
 
 </div>
 
