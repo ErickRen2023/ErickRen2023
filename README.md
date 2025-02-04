@@ -34,10 +34,6 @@ Interested in:
     
 </p>
 
-> "Dream chaser never give up."
-
-> "追梦人永不停息脚步。"
-
 <p align="center">
 
 <img align="center" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ErickRen2023&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=material-palenight"/>
