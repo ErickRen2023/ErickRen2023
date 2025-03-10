@@ -44,7 +44,7 @@ Interested in:
     
 | Company | Time | JobDescription |
 | ------------------------------------ | ---------------- | ------------------- |
-| ByteDacne | 2025-03 ~ Now | Server R&D of Local-Live Service Merchant Platform(intern) |
+| ByteDacne | 2025-03 ~ Now | Server R&D of Local Services Merchant Platform(intern) |
 | MeiTuan | 2024-04 ~ 2024-09 | Server R&D of Resort Ticket For China Mainland(intern) |
 
 </div>
