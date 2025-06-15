@@ -44,8 +44,8 @@ Interested in:
     
 | Company | Time | JobDescription |
 | ------------------------------------ | ---------------- | ------------------- |
-| ByteDacne | 2025-03 ~ Now | Server R&D of Local Life Services Merchant Platform(intern) |
-| MeiTuan | 2024-04 ~ 2024-09 | Server R&D of Resort Ticket For China Mainland(intern) |
+| ByteDacne | 2025-03 ~ Now | Server R&D of LLS(Local Life Service) Merchant Platform For China Mainland(intern) |
+| MeiTuan | 2024-04 ~ 2024-09 | Server R&D of Hotel & Tourism For China Mainland(intern) |
 
 </div>
 
