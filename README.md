@@ -33,7 +33,7 @@ Learning:
     
 | Company | Time | JobDescription |
 | ------------------------------------ | ---------------- | ------------------- |
-| ByteDacne | 2025-03 ~ Now | Server R&D of Local Services (intern) |
+| ByteDacne | 2025-03 ~ 2026-05 | Server R&D of Local Services (intern) |
 | MeiTuan | 2024-04 ~ 2024-09 | Server R&D of Local Services (intern) |
 
 </div>
