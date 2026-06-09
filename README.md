@@ -31,10 +31,10 @@ Learning:
 
 <div align="center">
     
-| Company | Time | JobDescription |
+| Company | Time | JD |
 | ------------------------------------ | ---------------- | ------------------- |
-| ByteDacne | 2025-03 ~ 2026-05 | Server R&D of Local Services (intern) |
-| MeiTuan | 2024-04 ~ 2024-09 | Server R&D of Local Services (intern) |
+| ByteDance | 2025-03 ~ 2026-05 | R&D Intern, Fund Settlement for Local Services |
+| MeiTuan | 2024-04 ~ 2024-09 | R&D Intern, Local Services |
 
 </div>
 
