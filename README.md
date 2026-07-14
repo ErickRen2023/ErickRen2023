@@ -34,6 +34,7 @@ I'm ErickRen.
     
 | Company | Time | JD |
 | ------------------------------------ | ---------------- | ------------------- |
+| MeiTuan | 2026-06 ~ Now  | R&D, Local Services |
 | ByteDance | 2025-03 ~ 2026-05 | R&D Intern, Fund Settlement for Local Services |
 | MeiTuan | 2024-04 ~ 2024-09 | R&D Intern, Local Services |
 
